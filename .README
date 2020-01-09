@@ -1,1 +1,20 @@
-pip install pick
+/** HOW TO RUN ME **/
+=====================
+To run the program you need to:
+1. Install python 3.^ (https://docs.python-guide.org/starting/install3/osx/) (https://www.python.org/downloads/)
+2. Install pandas libaray (https://pypi.org/project/pandas/) with pip3:
+        pip3 install pandas
+3. Install pick libaray (https://pypi.org/project/pick/) with pip3:
+        pip3 install pick 
+4, From the program root folder run:
+        python3 run.py
+
+
+/** PROGRAM WORKFLOW **/
+=====================
+After you run the program you can perform these actions:
+
+Input three commands:
+    1. Add  ==> starts the process of adding new apppointment to the schedule
+    2. List ==> lists all the currently scheduled apppointments
+    3. Exit ==> exits the program
